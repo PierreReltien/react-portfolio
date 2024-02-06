@@ -1,60 +1,82 @@
-const logotext = "JOHN";
+const logotext = "Pierre";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Pierre RELTIEN",
+    description: "I’m Pierre Reltien data scientist _ Full stack devloper,currently working in Paris",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "Pierre Reltien",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Full Stack Developer",
+        second: "Specialized in React and Express web Apps",
+        third: "Seeking a permanent or temporary position starting April 2024 in Paris.",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Welcome to my portfolio.",
+    your_img_url: "https://i.postimg.cc/rspt3B3K/me.png",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A bit about myself",
+    aboutme: "Hello, I am Pierre.Engineer graduated from a major French agronomy school, I spent 10 years in different commercial and technical functions in the public (French Ministry of Ecology) and private (SUEZ, Water and Waste Services) sectors, I am launching a new professional challenge in the Web development. You can count on me to bring your project to fruition. So let’s talk about it now.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Full stack developer at GiftEase",
+        where: "Paris",
+        date: "2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Network and Compliance Manager at SUEZ",
+        where: "Paris",
+        date: "2020-2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Business Manager at SUEZ",
+        where: "Lille",
+        date: "2017-2020",
+    },
+    {
+        jobtitle: "Commissioning Engineer at SUEZ",
+        where: "Santiago de Chile",
+        date: "2016-2017",
     },
 ];
 
-const skills = [{
-        name: "Python",
+const skills = [
+    {
+        name: "HTML",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "CSS",
+        value: 70,
+    },
+    {
+        name: "Tailwind",
+        value: 30,
     },
     {
         name: "Javascript",
-        value: 80,
+        value: 70,
     },
     {
         name: "React",
         value: 60,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "ReactNative",
+        value: 20,
+    },
+    {
+        name: "Node.js",
+        value: 65,
+    },
+    {
+        name: "Express.js",
+        value: 65,
+    },
+    {
+        name: "MongoDB",
+        value: 50,
     },
 ];
 
@@ -136,9 +158,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "pierre.reltien@gmail.com",
+    YOUR_FONE: "+33 6 15 37 00 90",
+    description: "You can count on me to bring your project to fruition. So let’s talk about it now. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
