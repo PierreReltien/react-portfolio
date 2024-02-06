@@ -82,15 +82,15 @@ const skills = [
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Elevate Your Digital Experience with Design Stunning Interfaces"
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Mobile and Web Apps",
+        description: "Unlock Your Digital Potential with Expert Mobile Web App Development",
     },
     {
         title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "WordPress scalable solutions with feature-rich functionality, and amazing designs",
     },
 ];
 
@@ -163,9 +163,9 @@ const contactConfig = {
     description: "You can count on me to bring your project to fruition. So let’s talk about it now. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_qh9yuhl",
+    YOUR_TEMPLATE_ID: "template_jkgafzm",
+    YOUR_USER_ID: "RG8Q_lda46XO_cy39",
 };
 
 const socialprofils = {
