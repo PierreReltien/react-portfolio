@@ -12,7 +12,7 @@ const introdata = {
         third: "Seeking a permanent or temporary position starting April 2024 in Paris.",
     },
     description: "Welcome to my portfolio.",
-    your_img_url: "https://i.postimg.cc/rspt3B3K/me.png",
+    your_img_url: "https://i.postimg.cc/VNG1wVsg/moi3.jpg",
 };
 
 const dataabout = {
@@ -105,56 +105,56 @@ const dataportfolio = [{
         link: "https://my-moviz-frontend-beryl.vercel.app/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "In progress.",
-        link: "#",
+        img: "https://i.postimg.cc/mZXsFqQG/zelda.png",
+        description: "A Zelda memory card.",
+        link: "https://zelda-memory-card.vercel.app/",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "",
         description: "In progress.",
         link: "#",
     },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "In progress.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "In progress.",
-        link: "#",
-    },
+    // {
+    //     img: "",
+    //     description: "In progress.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "",
+    //     description: "In progress.",
+    //     link: "#",
+    // },
 
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "In progress.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "In progress.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "In progress.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "In progress.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "In progress.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "In progress.",
-        link: "#",
-    },
+    // {
+    //     img: "",
+    //     description: "In progress.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "",
+    //     description: "In progress.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "",
+    //     description: "In progress.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "",
+    //     description: "In progress.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "",
+    //     description: "In progress.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "",
+    //     description: "In progress.",
+    //     link: "#",
+    // },
 ];
 
 const contactConfig = {
