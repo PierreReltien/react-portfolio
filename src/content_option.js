@@ -105,15 +105,16 @@ const dataportfolio = [{
         link: "https://my-moviz-frontend-beryl.vercel.app/",
     },
     {
+        img: "https://i.postimg.cc/52kLMv36/totorologo2.png",
+        description: "A twitter-like in the world of Hayao Miyazaki",
+        link: "http://ghiblimessenger-frontend.vercel.app",
+    },
+    {
         img: "https://i.postimg.cc/mZXsFqQG/zelda.png",
         description: "A Zelda memory card.",
         link: "https://zelda-memory-card.vercel.app/",
     },
-    {
-        img: "",
-        description: "In progress.",
-        link: "#",
-    },
+   
     // {
     //     img: "",
     //     description: "In progress.",
