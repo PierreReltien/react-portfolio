@@ -56,37 +56,46 @@ const skills = [
     },
     {
         name: "Javascript",
-        value: 70,
+        value: 80,
     },
     {
         name: "React",
-        value: 60,
+        value: 80,
     },
     {
         name: "ReactNative",
-        value: 20,
+        value: 70,
     },
     {
         name: "Node.js",
-        value: 65,
+        value: 80,
     },
     {
         name: "Express.js",
-        value: 65,
+        value: 80,
     },
     {
         name: "MongoDB",
+        value: 60,
+    },
+    {
+        name: "Java",
         value: 50,
     },
+    {
+        name: "C++",
+        value: 20,
+    },
+    
 ];
 
 const services = [{
         title: "UI & UX Design",
-        description: "Elevate Your Digital Experience with Design Stunning Interfaces"
+        description: "Together we build a wireframe and a mockup. We decide what will be the features and of course the design of your futur application",
     },
     {
         title: "Mobile and Web Apps",
-        description: "Unlock Your Digital Potential with Expert Mobile Web App Development",
+        description: "I will code your dream application from A to Z. On the back end side I assure you a resilient architecture and maximum data protection. On the front end side, a fluid, intuitive and dynamic design. Thanks to agile method (scrum) you will have frequent feedbacks and a possibility to adapt the project along the way.   ",
     },
     {
         title: "Wordpress Design",
