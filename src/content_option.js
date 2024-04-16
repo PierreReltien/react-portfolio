@@ -1,7 +1,7 @@
 const logotext = "Pierre Reltien";
 const meta = {
     title: "Pierre RELTIEN",
-    description: "I’m Pierre Reltien data scientist _ Full stack devloper,currently working in Paris",
+    description: "I’m Pierre Reltien Full stack developer,currently working in Paris",
 };
 
 const introdata = {
@@ -20,7 +20,7 @@ const dataabout = {
     aboutme: "Hello, I am Pierre.Engineer graduated from a major French agronomy school, I spent 10 years in different commercial and technical functions in the public (French Ministry of Ecology) and private (SUEZ, Water and Waste Services) sectors, I am launching a new professional challenge in the Web development. You can count on me to bring your project to fruition. So let’s talk about it now.",
 };
 const worktimeline = [{
-        jobtitle: "Full stack developer at GiftEase",
+        jobtitle: "Full stack developer at Pierre Dev",
         where: "Paris",
         date: "2024",
     },
@@ -76,7 +76,7 @@ const skills = [
     },
     {
         name: "MongoDB",
-        value: 60,
+        value: 80,
     },
     {
         name: "Java",
