@@ -48,11 +48,11 @@ const skills = [
     },
     {
         name: "CSS",
-        value: 70,
+        value: 90,
     },
     {
         name: "Tailwind",
-        value: 30,
+        value: 50,
     },
     {
         name: "Javascript",
@@ -60,23 +60,23 @@ const skills = [
     },
     {
         name: "React",
-        value: 80,
+        value: 90,
     },
     {
         name: "ReactNative",
-        value: 70,
+        value: 90,
     },
     {
         name: "Node.js",
-        value: 80,
+        value: 90,
     },
     {
         name: "Express.js",
-        value: 80,
+        value: 90,
     },
     {
         name: "MongoDB",
-        value: 80,
+        value: 90,
     },
     {
         name: "Java",
@@ -103,11 +103,7 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
-        img: "https://i.postimg.cc/26071Bhz/pokedex.png",
-        description: "Pokedex, A basic application front-end to access all your favorite pokemon",
-        link: "https://pokedex-jet-eight.vercel.app/",
-    },
+const dataportfolio = [
     {
         img: "https://i.postimg.cc/zfvzmy5s/MyMoviz.png",
         description: "My Moviz, An application to track the latest released movies.",
@@ -123,6 +119,11 @@ const dataportfolio = [{
         description: "A Zelda memory card.",
         link: "https://zelda-memory-card.vercel.app/",
     },
+    // {
+    //     img: "https://i.postimg.cc/26071Bhz/pokedex.png",
+    //     description: "Pokedex, A basic application front-end to access all your favorite pokemon",
+    //     link: "https://pokedex-jet-eight.vercel.app/",
+    // },
    
     // {
     //     img: "",
